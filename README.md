@@ -36,5 +36,24 @@ When ever possible, try to use the image with the largest resolution possible. T
 
 If you are uploading the logo to a website for an icon, they will often specify the ideal size of the icon. For example, the ideal size of a Discord Server Icon is 512px by 512px which would align with the `Medium` sized logos. 
 
-# Icon Previews
-![ASI_Logo_Black-on-Clear_Large](1 - Logo Icon Renders/ASI_Logo_Black-on-Clear_Large.png)
+# Logo Previews
+## Small
+![](1%20-%20Logo%20Icon%20Renders/ASI_Logo_Color-on-Dark_Small.png)
+![](1%20-%20Logo%20Icon%20Renders/ASI_Logo_Color-on-Clear_Small.png)
+![](1%20-%20Logo%20Icon%20Renders/ASI_Logo_Black-on-Clear_Small.png)
+![](1%20-%20Logo%20Icon%20Renders/ASI_Logo_White-on-Clear_Small.png)
+## Medium
+![](1%20-%20Logo%20Icon%20Renders/ASI_Logo_Color-on-Dark_Medium.png)
+![](1%20-%20Logo%20Icon%20Renders/ASI_Logo_Color-on-Clear_Medium.png)
+![](1%20-%20Logo%20Icon%20Renders/ASI_Logo_Black-on-Clear_Medium.png)
+![](1%20-%20Logo%20Icon%20Renders/ASI_Logo_White-on-Clear_Medium.png)
+## Large
+![](1%20-%20Logo%20Icon%20Renders/ASI_Logo_Color-on-Dark_Large.png)
+![](1%20-%20Logo%20Icon%20Renders/ASI_Logo_Color-on-Clear_Large.png)
+![](1%20-%20Logo%20Icon%20Renders/ASI_Logo_Black-on-Clear_Large.png)
+![](1%20-%20Logo%20Icon%20Renders/ASI_Logo_White-on-Clear_Large.png)
+## Title Card
+![](2%20-%20Title%20Card%20Renders/ASI_Title_Color-on-Dark_Medium.png)
+![](2%20-%20Title%20Card%20Renders/ASI_Title_Color-on-Clear_Medium.png)
+![](2%20-%20Title%20Card%20Renders/ASI_Title_White-on-Clear_Medium.png)
+![](2%20-%20Title%20Card%20Renders/ASI_Title_Black-on-Clear_Medium.png)
