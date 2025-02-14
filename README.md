@@ -1,4 +1,4 @@
-# ASI_Logos
+# ASI-Logos
 Hello! My name is Jason Daniel Pieck, and I am the creator of logo for the [Aggie Space Initiative at UC Davis](https://www.asidavis.org/). Please read the information below to learn more about logo use and check out [license](LICENSE.txt) for legal information.
 
 If you would like to just see the renders, jump down to the section titled ["Icon Renders"](#logo-renders). You can find the [title cards](#title-card) at the bottom
